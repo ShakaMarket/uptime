@@ -4,35 +4,39 @@
     "url": "https://shakamarket.fun",
     "icon": "https://icons.duckduckgo.com/ip3/shakamarket.fun.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 330,
-    "timeWeek": 397,
-    "timeMonth": 425,
-    "timeYear": 428,
-    "dailyMinutesDown": {}
+    "time": 425,
+    "timeDay": 352,
+    "timeWeek": 384,
+    "timeMonth": 414,
+    "timeYear": 425,
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "Api",
     "url": "https://shakamarket.fun/api/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/shakamarket.fun.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 165,
-    "timeWeek": 172,
+    "timeDay": 190,
+    "timeWeek": 175,
     "timeMonth": 185,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   }
 ]
